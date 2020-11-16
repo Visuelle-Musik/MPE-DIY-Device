@@ -10,6 +10,6 @@ The *.hex-file is the prebuild firmware. No building from source or IDE needed, 
 This binary can be loaded directly to the Teensy using the Teensy loader, which you will find at the link as below:
 https://www.pjrc.com/teensy/loader.html
 
-Please note: 
+Please note:
 Currently it is recommended to build from source, because the joysticks and their cabeling can be adjusted to your needs here, 
 which may be different to the binary right now which still was done with a prototype of the hardware.
