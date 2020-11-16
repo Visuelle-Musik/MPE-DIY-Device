@@ -71,7 +71,7 @@ Breath  -  Aftertouch
 - On Midi-channel 11 information that also would be applied via attached Footswitches and Pedals can be applied
 - Midi-channel 16 will be associated with a Launchpad and it's possible Bass-strings logic!
 
------------------------ */
+----------------------- */ 
 #include "TM1638_MB.h"
 #define trace(on)  on       // -> on <- to display / -> ; <- to do nothing! 
 // ### #define KEYES_JOY build_in  // Decide if we have a closing or opening switch on the Joysticks
